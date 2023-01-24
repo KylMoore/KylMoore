@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<p>My name is Kyle Moore and I am a front-end web and app developer, working with HTML5, CSS, and JavaScript. Before Web Development, I worked as an onsite manager for an automotive Paintless Dent Repair company, making me recognize the importance of teamwork, quality, and integrity. Working consistently with customers and employees helped to give me a great understanding of the balancing act between the two.</p>
+
+
+
 - 📫 Reach Me At **kylemoore-@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
